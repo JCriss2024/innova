@@ -1,0 +1,41 @@
+<aiml version="1.0" encoding="UTF-8">
+    <category>
+        <pattern>OBJETIVO DE GESTIÓN DE LA INNOVACIÓN</pattern>
+        <template>
+            El propósito de la gestión de la innovación es establecer, implementar, mantener y mejorar continuamente un sistema para gestionar la innovación dentro de una organización.
+        </template>
+    </category>
+
+    <category>
+        <pattern>PRINCIPIOS DE GESTIÓN DE LA INNOVACIÓN</pattern>
+        <template>
+            <s>1. Realización de valor</s>
+            <s>2. Liderazgo enfocado en el futuro</s>
+            <s>3. Dirección estratégica</s>
+            <s>4. Cultura</s>
+            <s>5. Gestión de la incertidumbre</s>
+            <s>6. Adaptabilidad</s>
+            <s>7. Enfoque sistémico</s>
+        </template>
+    </category>
+
+    <category>
+        <pattern>CONTEXTOS DE LA ORGANIZACIÓN</pattern>
+        <template>
+            La organización debe comprender su contexto interno y externo para identificar las áreas de oportunidad para la innovación.
+            <s>Factores externos: Aspectos económicos, Aspectos sociales, Aspectos tecnológicos, Aspectos culturales.</s>
+            <s>Factores internos: Cultura organizacional, Capacidades, Activos, Visión.</s>
+        </template>
+    </category>
+
+    <category>
+        <pattern>LIDERAZGO EN LA INNOVACIÓN</pattern>
+        <template>
+            El liderazgo juega un papel crucial al demostrar compromiso con la innovación, establecer una visión, promover una cultura de apoyo y garantizar que el sistema de gestión de la innovación cumpla con los resultados previstos.
+        </template>
+    </category>
+<category>
+    <pattern>Click node to edit pattern</pattern>
+    <template>Click node to edit template</template>
+</category>
+</aiml>

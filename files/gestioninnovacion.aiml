@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+  <category>
+    <pattern>CUÁL ES EL PROPÓSITO DE LA GESTIÓN DE LA INNOVACIÓN</pattern>
+    <template>
+      El propósito de la gestión de la innovación es establecer, implementar, mantener y mejorar continuamente un sistema para gestionar la innovación dentro de una organización.
+    </template>
+  </category>
+
+  <category>
+    <pattern>CUÁLES SON LOS PRINCIPIOS DE LA GESTIÓN DE LA INNOVACIÓN</pattern>
+    <template>
+      Los principios de la gestión de la innovación incluyen: la realización de valor, liderazgo enfocado en el futuro, dirección estratégica, cultura, gestión de la incertidumbre, adaptabilidad y enfoque sistémico.
+    </template>
+  </category>
+
+  <category>
+    <pattern>CUÁL ES EL CONTEXTO DE LA ORGANIZACIÓN EN LA GESTIÓN DE LA INNOVACIÓN</pattern>
+    <template>
+      El contexto de la organización en la gestión de la innovación implica comprender tanto factores externos como internos, tales como aspectos económicos, sociales, tecnológicos y culturales, además de la cultura, activos y visión de la organización.
+    </template>
+  </category>
+
+  <category>
+    <pattern>CUÁL ES EL PAPEL DEL LIDERAZGO EN LA GESTIÓN DE LA INNOVACIÓN</pattern>
+    <template>
+      El liderazgo juega un papel crucial al demostrar compromiso con la innovación, establecer una visión, promover una cultura de apoyo y garantizar que el sistema de gestión de la innovación cumpla con los resultados previstos.
+    </template>
+  </category>
+
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
+</aiml>
